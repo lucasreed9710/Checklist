@@ -1,0 +1,2 @@
+# Checklist
+dotfiles and setup
